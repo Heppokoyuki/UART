@@ -1,5 +1,5 @@
 // clock must be 50MHz
-// baud rate 11520bps, stop bit 1bit, data 8bit, no parity, no flow control
+// baud rate 115200bps, stop bit 1bit, data 8bit, no parity, no flow control
 
 module UART(
 	input wire clk,
